@@ -77,5 +77,4 @@ http://127.0.0.1:5000
 - Files in `./temp/` are named with a random ID and periodically cleaned (older than 15 minutes) on each operation.
 
 
-— ⚡ Blackbit v2.0
 # Happy Learning 
