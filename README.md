@@ -13,7 +13,6 @@ A web-based file encryption and decryption system with a cyberpunk UI. Backed by
   - Matrix rain overlay
   - Three.js 3D background (neon grid + wireframe cube)
   - Typewriter status messages & live console logs
-- No external database, works entirely on your machine.
 
 
 ## 🏗 Tech Stack
